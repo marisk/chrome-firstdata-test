@@ -1,5 +1,5 @@
 # FirstData.lv Testing Tool
-## Chrome Extension
+## Google Chrome Extension
 
 Fills FirstData.lv payment form with sample credit card data for testing purposes
 
