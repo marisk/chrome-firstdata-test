@@ -3,7 +3,7 @@ var data = {
             title: 'Visa',
             cardnr: '4314229999999913',
             month: '01',
-            year: '20',
+            year: '22',
             cvc2: '123',
             class: 'btn-primary'
         },
@@ -11,7 +11,7 @@ var data = {
             title: 'MasterCard',
             cardnr: '5437551000000020',
             month: '01',
-            year: '20',
+            year: '22',
             cvc2: '589',
             class: 'btn-primary'
         },
@@ -19,7 +19,7 @@ var data = {
             title: 'American Express',
             cardnr: '374757082030415',
             month: '01',
-            year: '20',
+            year: '22',
             cvc2: '9295',
             class: 'btn-primary'
         },
@@ -28,7 +28,7 @@ var data = {
             title: 'Incorrect exp. date',
             cardnr: '4314229999999913',
             month: '01',
-            year: '22',
+            year: '24',
             cvc2: '123',
             class: 'btn-danger btn-sm'
         },
@@ -36,7 +36,7 @@ var data = {
             title: 'Successful 3D-Secure authentication',
             cardnr: '5437551000000014',
             month: '01',
-            year: '20',
+            year: '22',
             cvc2: '589',
             class: 'btn-info btn-sm'
         },
@@ -44,7 +44,7 @@ var data = {
             title: 'Unsuccessful 3D-Secure authentication',
             cardnr: '4314220000000032',
             month: '01',
-            year: '20',
+            year: '22',
             cvc2: '213',
             class: 'btn-danger btn-sm'
         },
@@ -52,7 +52,7 @@ var data = {
             title: '3D-Secure authentication error',
             cardnr: '4314220000000031',
             month: '01',
-            year: '20',
+            year: '22',
             cvc2: '123',
             class: 'btn-danger btn-sm'
         }
